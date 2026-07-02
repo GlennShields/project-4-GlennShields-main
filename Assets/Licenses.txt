@@ -1,0 +1,57 @@
+Dirt and Grass Textures:
+	https://screamingbrainstudios.itch.io/tiny-texture-pack-2
+
+	License:
+	All Screaming Brain Studios assets have been released under the CC0/Public Domain License.
+	You are free to use these assets in any and all projects, commercial or non-commercial, 
+	with no restrictions, and can be released with or without credit.
+	--------------------------------------------------
+	CC0 1.0 Universal (CC0 1.0) 
+	Public Domain
+	https://creativecommons.org/publicdomain/zero/1.0/
+	--------------------------------------------------
+	A Special thanks to all my Patrons:
+	Dwayne Jarvis
+	Peardox
+
+Crate model:
+	https://braintide.itch.io/low-poly-3d-starter-pack
+
+	License:
+	The asset pack can be used in both free and commercial projects.
+	They can be modified to suit your needs.
+	You may not redistribute it or resell it.
+
+	Credit is greatly appreciated.
+
+	-Braintide
+
+Dummy model:
+	https://kevdev.itch.io/basic-motions-free
+
+	License:
+	None :(
+
+Walk animation:
+	https://www.mixamo.com
+
+	License:
+	https://community.adobe.com/t5/mixamo-discussions/mixamo-faq-licensing-royalties-ownership-eula-and-tos/td-p/13234775
+
+Swipe sound effect:
+	https://tommusic.itch.io/free-fantasy-200-sfx-pack
+
+	License:
+	Royalty-free! You can use this in your projects, commercial or otherwise, credit is not mandatory but appreciated. The asset is not to be up for resale or redistribution.
+
+Player animations:
+	https://kevdev.itch.io/basic-motions-free
+
+	License:
+	None :(
+
+Zombie:
+	https://assetstore.unity.com/packages/3d/characters/humanoids/zombie-30232
+
+	License:
+	Standard Unity Asset Store EULA
