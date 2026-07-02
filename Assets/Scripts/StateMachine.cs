@@ -204,6 +204,10 @@ public class Death : State
         if (stateMachine.GetType() == typeof(ZombieStateMachine))
         {
             ZombieStateMachine zombie = (ZombieStateMachine)stateMachine;
+            zombie.navMeshAgent.SetDestination(zombie.transform.position);
+            zombie.navMeshAgent.speed = 0f;
+            zombie.animator.SetTrigger("Dead");
+            zombie.navMeshAgent.enabled = false;
             // Fetch the NavMeshAgent from the state machine
             // Set our position to where we're currently at so that we stop moving
             // Also set the speed to 0 just in case
